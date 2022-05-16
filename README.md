@@ -1,20 +1,8 @@
-**Ce projet est réalisé dans le cadre de la licence 2 Informatique de l'IED Paris 8
+**Ce projet est réalisé dans le cadre de la licence 2 Informatique de l'IED Paris 8**
 
-**1
+**1**
+**Analyse des données d'un dictionnaire Japonais-Francais**
 
-Il constitut dans un premier temps d'une analyse des données d'un dictionnaire Japonais-Francais.
-
-**2
-
-Puis dans un second temps de la réalisation d'une maquette d’un programme de traduction en Python. 
-
-(cf code python)
-
-**3
-
-Enfin dans un troisième temps le portage de la maquette en C, en utilisant une interface rudimentaire (scanf pour lire le mot à traduire, printf pour écrire la traduction).
-
-(cf code C)
 
 **1.1 Fabrication de l’échantillon
 
@@ -73,5 +61,16 @@ const char separateur = '/' ;
 Ici le caractère ‘[’ aura un rôle important pour distinguer la deuxième forme Japonaise du mot.
 
 const char crochet = '[';
+
+**2**
+
+**Réalisation d'une maquette d’un programme de traduction en Python** 
+
+(cf code python)
+
+**3**
+**Portage de la maquette Python en C, en utilisant une interface rudimentaire (scanf pour lire le mot à traduire, printf pour écrire la traduction)**
+
+(cf code C)
 
 
