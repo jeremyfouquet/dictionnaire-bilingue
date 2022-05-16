@@ -63,7 +63,6 @@ Ici le caractère ‘[’ aura un rôle important pour distinguer la deuxième f
 const char crochet = '[';
 
 **2**
-
 **Réalisation d'une maquette d’un programme de traduction en Python** 
 
 (cf code python)
