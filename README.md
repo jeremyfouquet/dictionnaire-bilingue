@@ -1,4 +1,4 @@
-**Ce projet est réalisé dans le cadre de la licence 2 Informatique de l'IED Paris 8**
+**Ce projet est réalisé dans le cadre d'une licence Informatique**
 
 **1**
 **Analyse des données d'un dictionnaire Japonais-Francais**
