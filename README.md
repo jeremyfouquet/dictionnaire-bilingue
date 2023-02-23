@@ -1,4 +1,4 @@
-**Ce projet est réalisé dans le cadre d'une licence Informatique et consiste à réaliser un dictionnaire bilingue en langage C et Python**
+**Il s'agit d'un projet de dictionnaire bilingue réalisé en langage C et Python dans le cadre d'une licence Informatique**
 
 **1**
 **Analyse des données d'un dictionnaire Japonais-Francais**
