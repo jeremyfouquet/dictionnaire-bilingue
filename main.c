@@ -5,7 +5,7 @@
 # Version ..... : V1 du 12/05/2022
 # Licence ..... : réalisé dans le cadre du cours de Gilles Bernard pour la licence 2 Informatique de L'IED Paris 8
 # Compilation : g++ *.cpp -o dictionnaire -Wall -lX11 -lXm -lXt
-# Usage : Pour exécuter : ./dictionnaire
+# Usage : ./dictionnaire
 ********************************************************/
 
 #include <stdio.h>
